@@ -753,6 +753,8 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [Wheat](https://www.kaggle.com/datasets/muratkokludataset/durum-wheat-dataset)
+- [Zomato](https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022)
 
 ## Comics
 
@@ -789,6 +791,7 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Trending projects](https://towardsdatascience.com/15-awesome-python-and-data-science-projects-for-2021-and-beyond-64acf7930c20)
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
